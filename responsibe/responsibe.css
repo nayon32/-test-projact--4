@@ -1,0 +1,484 @@
+body{
+    box-sizing: border-box;
+}
+@media(min-width:992px) {
+    .card {
+    
+        transition: .5s;
+     
+    }
+    .img1-contain h3 {
+        margin-top: 23px;
+        color: #fff;
+    }
+    .img2-contain p {
+   
+        font-size: 13px;
+    }
+    .img2-contain {
+      
+        padding: 9px 20px;
+  
+    }
+    .img2-contain h3 {
+        font-size: 13px;
+    }
+    .img2-contain p {
+        font-size: 11px;
+    }
+
+}
+
+
+
+@media(min-width:768px) and (max-width:991px){
+    .abou-div {
+        text-align: center;
+    }
+
+    .abou-div i {
+       
+        height: 80px;
+        width: 80px;     
+        font-size: 34px;
+        margin: auto;
+    }
+    .abou-div h3 {
+        font-size: 16px;
+    }
+    .content h2 {
+        color: #000;
+    
+        font-size: 20px;
+    }
+    .content p {
+        font-size: 9px;
+    }
+    .card {
+      
+        margin-bottom: 76px;
+    }
+
+    .card:hover{
+        height: 350px;
+    
+    }
+    .hover-img {
+        margin-bottom: 20px;
+    }
+
+
+}
+
+
+@media(min-width:576px) and (max-width:767px){
+    .abou-div {
+        text-align: center;
+    }
+    .id-item p {
+        font-size: 13px;
+    }
+    .abou-div {
+        padding-top: 55px;
+    }
+
+    .abou-div i {
+       
+        height: 70px;
+        width: 70px;     
+        font-size: 24px;
+        margin: auto;
+    }
+    .abou-div h3 {
+        font-size: 13px;
+    }
+    .abou-div p {
+        font-size: 10px;
+    }
+    .btn-info {
+        font-size: 14px;
+    }
+
+    .content h2 {
+        color: #000;
+    
+        font-size: 20px;
+    }
+    .content p {
+        font-size: 9px;
+    }
+
+    .card {
+        height: 205px;
+        margin-bottom: 76px;
+    }
+
+    .card:hover{
+        height: 290px;
+    
+    }
+    .img1-contain h3 {
+        margin-top: 32px;
+    
+    }
+
+    .img2-contain {
+        
+        padding: 9px 20px;
+    
+    }
+    .img2-contain {
+      
+        padding: 9px 20px;
+  
+    }
+    .img2-contain h3 {
+        font-size: 13px;
+    }
+    .img2-contain p {
+        font-size: 11px;
+    }
+    .hover-img {
+        margin-bottom: 20px;
+    }
+    .img3-contain h3{ 
+        margin-top: 50px;
+        font-size: 16px;
+    }
+    .img3-contain p{
+        font-size: 14px;
+    }
+
+
+}
+
+
+
+@media(min-width:480px) and (max-width:575px){
+
+    .carousel-caption h5 {
+        font-size: 19px;
+        margin-bottom: 20px;
+    }
+    .carousel-caption p {
+        font-size: 14px;}
+
+        .carousel-item img {
+            height: 699px;
+        }
+        .abou-div {
+            text-align: center;
+        }
+
+        .abou-div {
+            text-align: center;
+        }
+        .id-item p {
+            font-size: 13px;
+        }
+        .abou-div {
+            padding-top: 55px;
+        }
+    
+        .abou-div i {
+           
+            height: 70px;
+            width: 70px;     
+            font-size: 24px;
+            margin: auto;
+        }
+        .abou-div h3 {
+            font-size: 13px;
+        }
+        .abou-div p {
+            font-size: 10px;
+        }
+        .btn-info {
+            font-size: 14px;
+        }
+
+        .card {
+    
+            height: 405px;
+        
+            margin-bottom: 93px;
+        }
+
+        .content h2 {
+            color: #000;
+        
+            font-size: 20px;
+        }
+        .content p {
+            font-size: 9px;
+        }
+        .card:hover{
+            height: 500px;
+        }
+        .hover-img {
+            margin-bottom: 20px;
+        }
+         .img3-contain h3{ 
+        margin-top: 50px;
+        font-size: 16px;
+    }
+   
+    .img3-contain h3{ 
+        margin-top: 50px;
+        font-size: 16px;
+    }
+    .img3-contain p{
+        font-size: 14px;
+    }
+}
+
+   
+}
+
+
+@media(min-width:400px) and (max-width:479px){
+    .carousel-caption h5 {
+        font-size: 16px !important;
+        font-weight: 600;
+        margin-bottom: 11px;
+    }
+    .carousel-caption p {
+        margin-bottom: 19px;
+        font-size: 9px;
+    }
+    .carousel-item a {
+        display: inline-block;
+        font-size: 11px;
+    }
+
+       
+    .carousel-item img {
+        height: 400px;
+    }
+
+    .carousel-indicators li {
+ 
+        width: 10px !important;
+        height: 10px !important;
+
+        border-radius: 50% !important;
+    }
+
+    .carousel-indicators{
+   
+        top: 75%;
+    }
+    .abou-div {
+        text-align: center;
+    }
+
+    .abou-div {
+        text-align: center;
+    }
+    .id-item p {
+        font-size: 13px;
+    }
+    .abou-div {
+        padding-top: 55px;
+    }
+
+    .abou-div i {
+       
+        height: 70px;
+        width: 70px;     
+        font-size: 24px;
+        margin: auto;
+    }
+    .abou-div h3 {
+        font-size: 13px;
+    }
+    .abou-div p {
+        font-size: 10px;
+    }
+    .btn-info {
+        font-size: 14px;
+    }
+
+
+    .card {
+    
+        height: 330px;
+    
+        margin-bottom: 93px;
+    }
+
+    .content h2 {
+        color: #000;
+    
+        font-size: 20px;
+    }
+    .content p {
+        font-size: 9px;
+    }
+    .card:hover{
+        height: 400px;
+    }
+
+    .img2-contain {
+      
+        padding: 9px 20px;
+  
+    }
+    .img2-contain h3 {
+        font-size: 13px;
+    }
+    .img2-contain p {
+        font-size: 11px;
+    }
+    .img2-contain h3 {
+        margin-top: 26px;
+    }
+    .hover-img {
+        margin-bottom: 20px;
+    }
+    .img3-contain p{
+        font-size: 12px;
+    }
+    .img3-contain h3{ 
+        margin-top: 50px;
+        font-size: 16px;
+    }
+    .img3-contain p{
+        font-size: 14px;
+    }
+}
+
+
+@media(max-width:399px){
+    .carousel-caption h5 {
+        font-size: 16px !important;
+        font-weight: 600;
+        margin-bottom: 11px;
+    }
+    .carousel-caption p {
+        margin-bottom: 19px;
+        font-size: 9px;
+    }
+    .carousel-item a {
+        display: inline-block;
+        font-size: 10px;
+    }
+
+    .carousel-item img {
+        height: 200px;
+    }
+
+    .carousel-caption {
+      
+        top: 16%;
+    }
+
+
+    .carousel-indicators li {
+ 
+        width: 10px !important;
+        height: 10px !important;
+
+        border-radius: 50% !important;
+    }
+
+    .carousel-indicators{
+   
+        top: 80%;
+    }
+    .tag-contient i {
+    
+        font-size: 16px;
+      
+    }
+    .tag-contient samp {
+    
+        font-size: 16px;
+
+    }
+
+    .abou-div {
+        text-align: center;
+    }
+
+    .abou-div {
+        text-align: center;
+    }
+    .id-item p {
+        font-size: 10px;
+    }
+    .abou-div {
+        padding-top: 40px;
+    }
+
+    .abou-div i {
+       
+        height: 70px;
+        width: 70px;     
+        font-size: 24px;
+        margin: auto;
+    }
+    .abou-div h3 {
+        font-size: 13px;
+    }
+    .abou-div p {
+        font-size: 10px;
+    }
+    .btn-info {
+        font-size: 14px;
+    }
+
+    .card {
+    
+        height: 250px;
+    
+        margin-bottom: 93px;
+    }
+
+    .content h2 {
+        color: #000;
+    
+        font-size: 20px;
+    }
+    .content p {
+        font-size: 9px;
+    }
+    .card:hover{
+        height: 320px;
+    }
+
+    .img1-contain h3 {
+        margin-top: 46px;
+    
+        font-size: 16px;
+    }
+    .img1-contain p {
+     
+        font-size: 13px;
+    }
+
+
+    .img2-contain {
+      
+        padding: 9px 20px;
+  
+    }
+    .img2-contain h3 {
+        font-size: 13px;
+    }
+    .img2-contain p {
+        font-size: 11px;
+    }
+    .hover-img {
+        margin-bottom: 20px;
+    }
+
+    .img3-contain h3{ 
+        margin-top: 50px;
+        font-size: 16px;
+    }
+    .img3-contain p{
+        font-size: 12px;
+    }
+
+}
